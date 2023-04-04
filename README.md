@@ -1,12 +1,8 @@
 # Chi2_optimization_2022
 
-# code for TB alignment corrections Hgcal_testbeam_analysis
-
-HGCAL_analysis_code
-Latest pion analysis code for OctTB2018
 
 
-git clone -b updated_chi2Optimization2022 git@github.com:alpana-hep/Hgcal_testbeam_analysis_2021.git .
+
 How to run the script
 
 make
