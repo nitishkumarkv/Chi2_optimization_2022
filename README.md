@@ -1,7 +1,7 @@
 # Chi2_optimization_2022
 
 
-
+The codes were originally developed by Shubham Pandey and Alpana Sirohi
 
 How to run the script
 
